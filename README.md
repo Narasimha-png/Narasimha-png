@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Settipalli Sri Lakshmi Narasimha</h1>
 <h3 align="center">A passionate Web & AIML developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif](https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narasimha-png&label=Profile%20views&color=0e75b6&style=flat" alt="narasimha-png" /> </p>
 
