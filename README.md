@@ -1,6 +1,6 @@
 [![MasterHead](https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8poooh7vsctzgstw6ent.gif)](https://narasimhas.s3.eu-north-1.amazonaws.com/NarasimhaS/NarasimhaS/index.html)
 <h1 align="center">Hi 👋, I'm Settipalli Sri Lakshmi Narasimha</h1>
-<h3 align="center">A passionate Web & AIML developer</h3>
+<h3 align="center">A passionate Web & Competative Programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png">
 
